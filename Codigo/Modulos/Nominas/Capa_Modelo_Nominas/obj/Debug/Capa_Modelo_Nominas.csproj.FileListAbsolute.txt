@@ -1,0 +1,6 @@
+C:\Users\sofia\Documents\Repositorio Proyecto 2\www\asis22k24proy2\Codigo\Modulos\Nominas\Capa_Modelo_Nominas\bin\Debug\Capa_Modelo_Nominas.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\www\asis22k24proy2\Codigo\Modulos\Nominas\Capa_Modelo_Nominas\bin\Debug\Capa_Modelo_Nominas.pdb
+C:\Users\sofia\Documents\Repositorio Proyecto 2\www\asis22k24proy2\Codigo\Modulos\Nominas\Capa_Modelo_Nominas\obj\Debug\Capa_Modelo_Nominas.csproj.AssemblyReference.cache
+C:\Users\sofia\Documents\Repositorio Proyecto 2\www\asis22k24proy2\Codigo\Modulos\Nominas\Capa_Modelo_Nominas\obj\Debug\Capa_Modelo_Nominas.csproj.CoreCompileInputs.cache
+C:\Users\sofia\Documents\Repositorio Proyecto 2\www\asis22k24proy2\Codigo\Modulos\Nominas\Capa_Modelo_Nominas\obj\Debug\Capa_Modelo_Nominas.dll
+C:\Users\sofia\Documents\Repositorio Proyecto 2\www\asis22k24proy2\Codigo\Modulos\Nominas\Capa_Modelo_Nominas\obj\Debug\Capa_Modelo_Nominas.pdb
