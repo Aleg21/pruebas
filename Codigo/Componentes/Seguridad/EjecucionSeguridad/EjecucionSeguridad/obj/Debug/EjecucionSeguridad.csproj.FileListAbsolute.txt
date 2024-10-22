@@ -1,4 +1,0 @@
-C:\Users\sofia\Documents\Repositorio Proyecto 2\www\asis22k24proy2\Codigo\Componentes\Seguridad\EjecucionSeguridad\EjecucionSeguridad\obj\Debug\EjecucionSeguridad.csproj.AssemblyReference.cache
-C:\Users\sofia\Documents\Repositorio Proyecto 2\www\asis22k24proy2\Codigo\Componentes\Seguridad\EjecucionSeguridad\EjecucionSeguridad\obj\Debug\EjecucionSeguridad.Properties.Resources.resources
-C:\Users\sofia\Documents\Repositorio Proyecto 2\www\asis22k24proy2\Codigo\Componentes\Seguridad\EjecucionSeguridad\EjecucionSeguridad\obj\Debug\EjecucionSeguridad.csproj.GenerateResource.cache
-C:\Users\sofia\Documents\Repositorio Proyecto 2\www\asis22k24proy2\Codigo\Componentes\Seguridad\EjecucionSeguridad\EjecucionSeguridad\obj\Debug\EjecucionSeguridad.csproj.CoreCompileInputs.cache
